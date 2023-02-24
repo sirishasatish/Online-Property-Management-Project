@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "639655f38fd9ddb92f140159"
+  },
+  "user_id": "1670796787604",
+  "name": "John",
+  "email": "john@gmail.com",
+  "password": "$2a$10$jrWXhEQ4nnWf1UlcTzMAuejlUhCrKILWWUycoSBy7eDYa9yV8WL/q",
+  "contact_number": "9452172851",
+  "address": {
+    "street": "800 Campbell",
+    "city": "Richarson",
+    "zipcode": "75080"
+  },
+  "favorites": [],
+  "isHost": false
+},{
+  "_id": {
+    "$oid": "63965cad8fd9ddb92f14015a"
+  },
+  "user_id": "1670798509317",
+  "name": "Jwala",
+  "email": "jwalas@g.com",
+  "password": "$2a$10$QQg8hwOUZ6F/GqcrjdMZre7erzb1amL/sNaDCm4ekHjdYZT3gfPFi",
+  "contact_number": "dd",
+  "address": {
+    "street": "dd",
+    "city": "dd",
+    "zipcode": "dd"
+  },
+  "favorites": ["1","2"],
+  "isHost": false
+},{
+  "_id": {
+    "$oid": "639660d23d609f04496cae8a"
+  },
+  "user_id": "1670799570255",
+  "name": "Jwala",
+  "email": "jwalachaluvadi@gmail.com",
+  "password": "$2a$10$aRKuMMKeW/YSYsrDhelDYOo8ZaGzwQrOWpGEqIzHirZgaa9PKWWnm",
+  "contact_number": "773232932983",
+  "address": {
+    "street": "905dsfbjdsbhdbfjhjds",
+    "city": "jkdshfjksdh",
+    "zipcode": "75080"
+  },
+  "favorites": [
+    "5"
+  ],
+  "isHost": false
+}]

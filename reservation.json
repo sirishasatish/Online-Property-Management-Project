@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "637a729378963b141fab7211"
+  },
+  "reservation_id": "r3",
+  "user_id": "u2",
+  "property_id": "3",
+  "stay_start": "10-28-2022",
+  "stay_end": "11-03-2022",
+  "guests": "3"
+},{
+  "_id": {
+    "$oid": "637a729378963b141fab7213"
+  },
+  "reservation_id": "r5",
+  "user_id": "u3",
+  "property_id": "5",
+  "stay_start": "11-21-2022",
+  "stay_end": "11-30-2022",
+  "guests": "2"
+},{
+  "_id": {
+    "$oid": "6394a972f912a379e8f2eec8"
+  },
+  "reservation_id": "1670687090400",
+  "user_id": "u1",
+  "property_id": "4",
+  "stay_start": "2022-11-02",
+  "stay_end": "2022-11-09",
+  "guests": "1"
+},{
+  "_id": {
+    "$oid": "6394fee55c47478aeee40adc"
+  },
+  "reservation_id": "1670708965753",
+  "user_id": "u1",
+  "property_id": "1",
+  "stay_start": "2022-09-08",
+  "stay_end": "2022-09-15",
+  "guests": "1"
+},{
+  "_id": {
+    "$oid": "639500a25c47478aeee40add"
+  },
+  "reservation_id": "1670709410290",
+  "user_id": "u1",
+  "property_id": "1",
+  "stay_start": "2022-09-14",
+  "stay_end": "2022-09-15",
+  "guests": "1"
+},{
+  "_id": {
+    "$oid": "6395047d5c47478aeee40adf"
+  },
+  "reservation_id": "1670710397685",
+  "user_id": "1670703691621",
+  "property_id": "1",
+  "stay_start": "2022-09-08",
+  "stay_end": "2022-09-15",
+  "guests": "1"
+},{
+  "_id": {
+    "$oid": "639643158fd9ddb92f140157"
+  },
+  "reservation_id": "1670791957456",
+  "user_id": "1670703691621",
+  "property_id": "3",
+  "stay_start": "2022-10-28",
+  "stay_end": "2022-11-02",
+  "guests": "1"
+},{
+  "_id": {
+    "$oid": "639661753d609f04496cae8b"
+  },
+  "reservation_id": "1670799733460",
+  "user_id": "1670799570255",
+  "property_id": "4",
+  "stay_start": "2022-11-03",
+  "stay_end": "2022-11-08",
+  "guests": "1"
+}]

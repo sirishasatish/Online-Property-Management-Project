@@ -1,0 +1,168 @@
+
+        .jumbotron{
+        justify-content:center;
+        margin-top: 0px;
+        background-image:url("images/lake2.png");
+        background-size:cover;
+        background-repeat:no-repeat;
+        color:white;
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: 100% 100%;
+        justify-content: space-between;
+        }
+        input{
+            width: 100%;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        #sideItems{
+            text-align: left
+        }
+        .custom-navbar {
+            padding: 0px;
+            
+        }
+
+        .navigation-color{
+            background-color: white;
+            
+        }
+
+        .caption-style {
+            font-size: 1.7em;
+        }
+
+        .footer-bottom {
+
+            bottom: 0;
+            width: 100%;
+
+        }
+
+        .feedback {
+            bottom: 0px;
+            right: 0px;
+        }
+
+        .img-height {
+            height: 12em;
+        }
+
+        .property-listing {
+            margin: 5px;
+
+        }
+
+        .property-all-listings {
+            display: flex;
+        }
+
+        .side-menu {
+            margin-top: 5px;
+            align-items: left;
+        }
+        .p-margin{
+            margin: 0px;
+            text-align: left;
+        }
+        #searchDest{
+          height: 42px;
+          width : 300px
+        }
+        #fDate{
+          height: 42px;
+          width : 150px
+        }
+        #tDate{
+          height: 42px;
+          width : 150px
+        }
+        #searchBtn{
+        height:42px
+        }
+        #guest{
+        height:42px;
+        width : 100px
+        }
+        #jumbElements{
+        justify-content:center;
+        padding-bottom:50px
+        }
+        h2{
+        padding:20px
+        }
+        #side{
+        width:50px
+        }
+        #searchBtn{
+        background-color:#FFDB58
+        }
+        #coro{
+        justify-content:center
+        }
+        a{
+        text-decoration:None
+        }
+
+        .drop-style{
+            text-align: center
+        }
+
+        .category-ul-style{
+            display: flex;
+            justify-content: center
+        }
+
+        .category-li-style{
+            background-color: lightgray; 
+            padding: 5px;
+        }
+        .card-p-style{
+            color: black;
+        }
+
+        .property-card-style{
+           width: 18rem;
+        }
+
+        .row {
+            display: -ms-flexbox; /* IE 10 */
+            display: flex;
+            -ms-flex-wrap: wrap; /* IE 10 */
+            flex-wrap: wrap;
+            padding: 0 4px;
+            height: 50%;
+            width: 100%;
+          }
+          
+          /* Create two equal columns that sits next to each other */
+          .column {
+            -ms-flex: 50%; /* IE 10 */
+            flex: 50%;
+            padding: 0 4px;
+          }
+          .prop{
+              height: 50%;
+              width: 100%;
+              margin-top: 8px;
+           
+          }
+          
+          .column img {
+            margin-top: 8px;
+            
+          } 
+          #italic {
+            font-style: italic;
+          }
+          #desc{
+            text-align: left;
+          }
+
+          

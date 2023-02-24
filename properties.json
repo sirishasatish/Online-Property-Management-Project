@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "637a692478963b141fab71f3"
+  },
+  "property_id": "1",
+  "title": "Stunning WaterFrnot Kabana",
+  "city": "San Jose",
+  "state": "California",
+  "description": "BEAUTIFUL COZY CABIN FOR YOUR FAMILY!!! This beautifully decorated 700 sq ft. cabin has everything you need for your perfect getaway. Just a 45 minute drive north of McKinney located on 2.5 acres. You can sit back and enjoy the view of the trees while rocking of the front porch with your morning coffee.",
+  "nightly_fee": "100",
+  "cleaning_fee": "20",
+  "service_fee": "10",
+  "amenities": [
+    "Waterfront",
+    "Wifi",
+    "Dedicated workspace",
+    "Kitchen",
+    "Free Parking on premises",
+    "Pet Friendly"
+  ],
+  "bedrooms": "7 beds",
+  "bathrooms": "2 baths",
+  "availability": "Not Available",
+  "guests": "8",
+  "images": [
+    "assets/images/p11.jpeg",
+    "assets/images/p12.jpeg",
+    "assets/images/p13.jpeg"
+  ],
+  "available_end_date": "",
+  "available_start_date": "",
+  "category": "Lakes",
+  "host_id": "1670715804346",
+  "rating": "1"
+},{
+  "_id": {
+    "$oid": "637a692478963b141fab71f4"
+  },
+  "property_id": "2",
+  "title": "The Mansion at Hilltop!!",
+  "city": "San Leon",
+  "state": "Texas",
+  "description": "This is a laid back neighborhood with some great local bars and resturants. Perfect for fishing, swimming and laying on the beach. About 20 min to Galveston, 15 min to Kemah and 15 min to League City",
+  "nightly_fee": "400",
+  "cleaning_fee": "30",
+  "service_fee": "10",
+  "amenities": [
+    "Mountain view",
+    "Wifi",
+    "Dedicated workspace",
+    "Kitchen",
+    "Pool table",
+    "Grill"
+  ],
+  "bedrooms": "6 beds",
+  "bathrooms": "2 baths",
+  "availability": "Not Available",
+  "guests": "10",
+  "images": [
+    "assets/images/p21.jpeg",
+    "assets/images/p22.jpeg",
+    "assets/images/p23.jpeg"
+  ],
+  "available_end_date": "",
+  "available_start_date": "",
+  "category": "Treehouse",
+  "rating": "2.5",
+  "host_id": "u1"
+},{
+  "_id": {
+    "$oid": "637a692478963b141fab71f5"
+  },
+  "property_id": "3",
+  "title": "Geodome Hilltop Views ",
+  "hosted_by": "Martin Luther",
+  "city": "Eureka Springs",
+  "state": "Arkansas",
+  "description": "This modern themed dome has all of the amenities of an upscale hotel room complete with kitchenette and a beautiful deck for enjoying the great outdoors. The dome was designed for luxury and comfort. We have put in state of the art climate control systems to keep you perfectly comfortable in extreme temperatures. This is for the fun outdoor types with adventure in mind. If you are this type you will feel right at home in our domes. There is a king size bed and a bean bag that folds out to be a queen size bed. Please request linens for the floor mattress before your stay.",
+  "nightly_fee": "195",
+  "cleaning_fee": "10",
+  "service_fee": "8",
+  "amenities": [
+    "Hill top view",
+    "Wifi",
+    "Free parking on premises",
+    "Private hot hub",
+    "AC- split type ductless sytem"
+  ],
+  "bedrooms": "1 beds",
+  "bathrooms": "1 baths",
+  "availability": "Oct 28-Nov 3",
+  "guests": "4",
+  "images": [
+    "assets/images/p31.jpeg",
+    "assets/images/p32.jpeg",
+    "assets/images/p33.jpeg"
+  ],
+  "available_end_date": "2022-11-03",
+  "available_start_date": "2022-10-28",
+  "category": "Beaches",
+  "rating": "3.5"
+},{
+  "_id": {
+    "$oid": "637a692478963b141fab71f6"
+  },
+  "property_id": "4",
+  "title": "Serene Lakeside Getaway",
+  "city": "Pittsburg",
+  "state": "Pennsylvania",
+  "description": "This lakeside getaway is a cutsom 2700 sq ft waterfront log home surrounded by piney woods, wildlife and serenity. Breathtaking lake, cove and wilderness views, wrp around gate on both levels. Note : Boat slip house and power lift now available for all guests in summer. ",
+  "nightly_fee": "410",
+  "cleaning_fee": "20 (additional $15 pet cleaning fee)",
+  "service_fee": "10",
+  "amenities": [
+    "Lakeside view",
+    "Wifi",
+    "swing bed",
+    "Kitchen and pantry",
+    "fireplace",
+    "jacuzzi"
+  ],
+  "bedrooms": "3 beds",
+  "bathrooms": "3 baths",
+  "availability": "Nov 2-9",
+  "guests": "10",
+  "images": [
+    "assets/images/p41.jpeg",
+    "assets/images/p42.jpeg",
+    "asstes/images/p43.jpeg"
+  ],
+  "available_end_date": "2022-11-09",
+  "available_start_date": "2022-11-02",
+  "category": "Beaches",
+  "host_id": "1670715804346",
+  "rating": "4"
+},{
+  "_id": {
+    "$oid": "637a692478963b141fab71f7"
+  },
+  "property_id": "5",
+  "title": "Holy Shiplap Couples Getaway",
+  "hosted_by": "Catherine Will",
+  "city": "Broken Bow",
+  "state": "Oklahoma",
+  "description": "Looking for a romantic getaway? Holy Shiplap is the cabin for you! This cozy cabin located in the gorgeous forest of the Ouachita Mountains offers you an experience that you'll never forget. Upon entering you are welcomed by a beautiful white stone fireplace, comfy sectional seating to enjoy a movie or simply just enjoy a good book on the reading nook. The kitchen is fully equipped and offers stainless steel appliances. The cabin has a large private master bedroom with comfy king bed, and an ensuite bathroom with a large walk-in shower. Holy Shiplap boast a spacious outdoor patio, with hot clean, spacious hot tub and another stone gas fireplace to enjoy the beautiful sounds of nature. Accompanied with a lounge area, and dining to entertain guests. Prime location in hilly & charming neighborhood, less than 1 mile north of Hochatown's premier restaurants, and half a mile south of Mountain Fork Brewery.It's a popular destination for honeymooners",
+  "nightly_fee": "172",
+  "cleaning_fee": "10",
+  "service_fee": "10",
+  "amenities": [
+    "Indoor Fireplace",
+    "Wifi",
+    "coffee maker",
+    "Private hot hub",
+    "Kitchen",
+    "BBQ grill"
+  ],
+  "bedrooms": "1 beds",
+  "bathrooms": "1 baths",
+  "availability": "Nov 21-30",
+  "guests": "3",
+  "images": [
+    "assets/images/p51.jpeg",
+    "assets/images/p52.jpeg",
+    "assets/images/p53.jpeg"
+  ],
+  "available_end_date": "2022-11-30",
+  "available_start_date": "2022-11-21",
+  "category": "Lakes"
+},{
+  "_id": {
+    "$oid": "637a692478963b141fab71f8"
+  },
+  "property_id": "6",
+  "title": "The Hut on Humboldt",
+  "hosted_by": "Andrew Drake",
+  "city": "Defiance",
+  "state": "Missouri",
+  "description": "Cabin on 110+ acres back'n to national forest will recharge your soul! It sits on Sangre de Cristo mountainside w/ 100 mile views & access to some of the areas best hiking & alpine lakes!.",
+  "nightly_fee": "199",
+  "cleaning_fee": "15",
+  "service_fee": "10",
+  "amenities": [
+    "Valley view",
+    "Wifi",
+    "Free Parking on premises",
+    "Kitchen",
+    "Pet friendly",
+    "Library"
+  ],
+  "bedrooms": "3 beds",
+  "bathrooms": "2 baths",
+  "availability": "Nov 10-16",
+  "guests": "10",
+  "images": [
+    "assets/images/p61.jpeg",
+    "assets/images/p62.jpeg",
+    "assets/images/p63.jpeg"
+  ],
+  "available_end_date": "2022-11-16",
+  "available_start_date": "2022-11-10",
+  "category": "Skiing"
+},{
+  "_id": {
+    "$oid": "639623a78fd9ddb92f140155"
+  },
+  "property_id": "1670783911632",
+  "title": "The lovelyplace",
+  "host_id": "1670723276486",
+  "city": "Richardson",
+  "state": "texas",
+  "description": "asdfghjkjhgfdsasdfghj",
+  "nightly_fee": "120",
+  "cleaning_fee": "12",
+  "service_fee": "12",
+  "amenities": [
+    "Wifi"
+  ],
+  "bedrooms": "3",
+  "bathrooms": "4",
+  "availability": "Dec 12-15",
+  "guests": "2",
+  "images": [
+    "assets/images/p11.jpeg",
+    "assets/images/p12.jpeg",
+    "assets/images/p13.jpeg"
+  ],
+  "available_start_date": "2022-12-12",
+  "available_end_date": "2022-12-15",
+  "category": "Lakes",
+  "rating": 0
+},{
+  "_id": {
+    "$oid": "639662133d609f04496cae8c"
+  },
+  "property_id": "1670799891698",
+  "title": "Estates of Richardson",
+  "host_id": "1670799570255",
+  "city": "Richardson",
+  "state": "Texas",
+  "description": "Best community",
+  "nightly_fee": "70",
+  "cleaning_fee": "90",
+  "service_fee": "89",
+  "amenities": [
+    "Swimming",
+    " TV",
+    " Fridge"
+  ],
+  "bedrooms": "2",
+  "bathrooms": "2",
+  "availability": "Dec 15 - 29",
+  "guests": "2",
+  "images": [
+    "assets/images/p11.jpeg",
+    "assets/images/p12.jpeg",
+    "assets/images/p13.jpeg"
+  ],
+  "available_start_date": "2022-12-15",
+  "available_end_date": "2022-12-29",
+  "category": "Park",
+  "rating": 0
+}]
